@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b9815cfbdfb29024288f40608cc81527
+timeCreated: 1500988155
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Painted Paradise
+  fontNames:
+  - Painted Paradise
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

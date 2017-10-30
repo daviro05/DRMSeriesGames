@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8797b3c905c4588418ef8468bfc65b31
+timeCreated: 1506094134
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mauritian Vibration
+  fontNames:
+  - Mauritian Vibration
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

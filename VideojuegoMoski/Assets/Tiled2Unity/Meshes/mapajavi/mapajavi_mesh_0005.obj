@@ -1,0 +1,34 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'mapajavi_mesh_0005.obj'
+
+# Vertices (Count = 12)
+v -29.86667 -8.533334 0
+v -31.28889 -8.533334 0
+v -31.28889 -7.5 0
+v -29.86667 -7.5 0
+v -21.33333 -9.955556 0
+v -22.75556 -9.955556 0
+v -22.75556 -8.922222 0
+v -21.33333 -8.922222 0
+v -11.37778 -12.8 0
+v -12.8 -12.8 0
+v -12.8 -11.76667 0
+v -11.37778 -11.76667 0
+
+# Texture cooridinates (Count = 4)
+vt 0 0
+vt 1 0
+vt 1 1
+vt 0 1
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g mapajavi_mesh_0005
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/1/1 6/2/1 7/3/1 8/4/1
+f 9/1/1 10/2/1 11/3/1 12/4/1
+
